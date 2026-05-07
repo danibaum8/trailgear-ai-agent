@@ -25,10 +25,10 @@ Ask questions like:
 
 1. A 60-product catalog is loaded from a structured CSV file at startup.
 2. The full catalog is injected into the Claude API system prompt as context.
-3. The user's question — along with the full conversation history — is sent to Claude with each request.
+3. The user's question along with the full conversation history is sent to Claude with each request.
 4. Claude returns a grounded, catalog-accurate answer with product names and prices.
 
-No vector database or semantic search required at this scale — the entire catalog fits cleanly within the model's context window.
+No vector database or semantic search required at this scale. The entire catalog fits cleanly within the model's context window.
 
 ## Tech Stack
 
