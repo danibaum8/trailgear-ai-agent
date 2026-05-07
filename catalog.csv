@@ -1,0 +1,61 @@
+id,name,category,description,price_eur,material,weight_kg,certifications,use_case,in_stock
+1,Summit Pro Hiking Boot,Footwear,Waterproof full-grain leather boot with Vibram sole for rugged terrain,129.99,Full-grain leather + Gore-Tex,1.2,ISO 20347,Multi-day trekking on rocky trails,true
+2,TrailLite Running Shoe,Footwear,Lightweight breathable trail runner for fast-paced off-road running,89.99,Mesh + TPU,0.6,,Trail running and fastpacking,true
+3,Alpine Base Camp Boot,Footwear,Insulated winter mountaineering boot rated to -30°C,189.99,Synthetic + Thinsulate,1.8,EN ISO 20345,Winter mountaineering and ice climbing,true
+4,River Crossing Sandal,Footwear,Quick-drain sandal with adjustable straps for water crossings and camp,44.99,Rubber + nylon webbing,0.4,,Campsite use and river crossings,true
+5,Canyon Approach Shoe,Footwear,Sticky rubber sole for technical scrambling and via ferrata,99.99,Leather + rubber rand,0.85,,Scrambling and via ferrata,false
+6,TrailShield Waterproof Jacket,Outerwear,3-layer Gore-Tex jacket with pit zips and helmet-compatible hood,249.99,Gore-Tex Pro,0.65,EN 343,All-weather hiking and mountaineering,true
+7,Summit Softshell Jacket,Outerwear,Stretchy wind-resistant softshell for high-output alpine activity,159.99,Polartec Windbloc,0.42,,Alpine climbing and ski touring,true
+8,StormBreaker Hardshell,Outerwear,Minimalist packable hardshell for ultralight backpackers,189.99,2.5-layer nylon,0.38,EN 343,Ultralight thru-hiking,true
+9,Base Camp Puffer Jacket,Outerwear,800-fill down jacket for camp warmth and cold belays,179.99,Down 800fp + ripstop,0.55,,Camp insulation and cold weather,true
+10,Merino Trail Hoodie,Midlayer,Odour-resistant merino wool hoodie for multi-day trips,89.99,100% Merino wool,0.31,,Multi-day hiking and travel,true
+11,FleeceGrid Mid Layer,Midlayer,Grid fleece midlayer with two zip pockets and thumb loops,64.99,Polartec 100 fleece,0.35,,Layering in cold conditions,true
+12,TrailDry Waterproof Trouser,Legwear,Lightweight waterproof overtrousers that pack into a stuff sack,79.99,2-layer nylon + DWR,0.28,EN 343,Rain protection on trails,true
+13,Merino Base Layer Top,Base Layer,Next-to-skin merino top with flatlock seams for all-day comfort,59.99,160gsm Merino wool,0.18,,All-season base layer,true
+14,Merino Base Layer Bottom,Base Layer,Merino wool leggings with gusseted crotch for freedom of movement,54.99,160gsm Merino wool,0.2,,All-season base layer,true
+15,ActiveDry Synthetic Top,Base Layer,Moisture-wicking synthetic base layer for high-intensity activity,39.99,Polyester + elastane,0.14,,Running and high-output hiking,true
+16,TrailPack 35L Backpack,Packs & Bags,Women's-specific 35L pack with hipbelt pockets and hydration sleeve,139.99,210D ripstop nylon,1.35,,Day hiking and overnight trips,true
+17,Summit Pack 60L Backpack,Packs & Bags,Fully-featured 60L expedition pack with frame sheet and lid pocket,189.99,330D nylon,2.1,,Multi-day and expedition hiking,true
+18,UltraLight 20L Daypack,Packs & Bags,Minimalist foldable 20L daypack weighing just 180g,49.99,Silnylon,0.18,,Day hikes and travel daypack,true
+19,Hydration Vest 10L,Packs & Bags,Running vest with twin 500ml soft flasks and bounce-free fit,99.99,Stretch mesh + nylon,0.22,,Trail running and fastpacking,true
+20,Dry Bag 20L,Packs & Bags,Welded seam roll-top dry bag rated to IPX6,29.99,500D PVC-free tarpaulin,0.28,IPX6,Kayaking and wet conditions,true
+21,TrailBlazer Trekking Poles,Accessories,Adjustable aluminium trekking poles with cork grips and carbide tips,54.99,Aluminium 7075,0.52,,General trekking and snowshoeing,true
+22,Carbon Summit Poles,Accessories,Ultralight carbon fibre trekking poles collapsible to 38cm,119.99,Carbon fibre,0.36,,Ultralight hiking and trail running,true
+23,Navigation Compass,Accessories,Baseplate compass with clinometer and 1:25000 map magnifier,34.99,Acrylic + steel,0.08,,Navigation and orienteering,true
+24,HeadTorch 350 Lumen,Accessories,Rechargeable LED headtorch with red night-vision mode,44.99,ABS plastic,0.085,IP67,Camping and night hiking,true
+25,UltraBright HeadTorch 1000,Accessories,High-performance 1000-lumen headtorch for technical use,79.99,ABS + aluminium,0.12,IP68,Caving mountaineering and search & rescue,true
+26,Merino Liner Glove,Gloves,Thin merino liner glove compatible with touchscreens,24.99,Merino wool + nylon,0.06,,Cold weather liner and camp use,true
+27,Waterproof Shell Glove,Gloves,Gore-Tex overmitt with long gauntlet cuff,64.99,Gore-Tex + nylon,0.14,EN 388,Alpine and ski touring,true
+28,Insulated Trekking Glove,Gloves,Primaloft-insulated glove with gripped palm,49.99,Primaloft + nylon,0.12,,Winter hiking and trekking,true
+29,Lightweight Trekking Glove,Gloves,Breathable softshell glove for mild conditions,29.99,Softshell polyester,0.08,,Autumn hiking and mild winter,true
+30,Sun Hat Wide Brim,Headwear,UPF 50+ wide-brim hat with adjustable chin strap,29.99,Nylon + mesh,0.08,UPF 50+,Sun protection on exposed ridges,true
+31,Merino Beanie,Headwear,Fine-knit merino beanie with double-layer construction,24.99,100% Merino wool,0.07,,Cold weather and camp,true
+32,Buff Neck Gaiter,Headwear,Seamless multifunctional neck gaiter usable as hat balaclava or buff,18.99,Coolmax polyester,0.05,,Versatile head and neck protection,true
+33,Winter Balaclava,Headwear,Fleece-lined balaclava for extreme cold conditions,34.99,Polartec fleece,0.09,,Mountaineering and winter trekking,true
+34,Packable Sun Cap,Headwear,Lightweight packable cap with UPF 40 protection,19.99,Nylon,0.06,UPF 40,Summer hiking and travel,true
+35,3-Season Sleeping Bag,Sleep Systems,Synthetic sleeping bag rated to -5°C comfort,89.99,Hollowfibre synthetic,1.1,EN 13537,3-season camping,true
+36,Down Sleeping Bag 800fp,Sleep Systems,650g 800-fill power down sleeping bag with -10°C comfort rating,249.99,Down 800fp + ripstop,0.9,EN 13537,Alpine and winter camping,true
+37,Ultralight Sleeping Bag Liner,Sleep Systems,Silk sleeping bag liner adding 5°C warmth,39.99,100% silk,0.15,,Extending sleeping bag range,true
+38,Inflatable Sleeping Mat,Sleep Systems,R-value 4.2 four-season inflatable mat with anti-slip surface,99.99,Nylon + TPU,0.48,R-4.2,Four-season camping,true
+39,Closed Cell Foam Mat,Sleep Systems,Classic budget-friendly closed-cell foam sleeping pad,24.99,EVA foam,0.38,,Budget camping and backup mat,true
+40,TrailDome 2P Tent,Shelter,Freestanding 2-person 3-season tent with full inner mesh,199.99,20D ripstop nylon + aluminium,2.1,,3-season backpacking,true
+41,UltraShield 1P Tent,Shelter,Single-wall ultralight shelter for solo backpackers at 900g,289.99,Silnylon + carbon,0.9,,Ultralight solo backpacking,true
+42,Base Camp 4P Tent,Shelter,4-person tunnel tent for base camp and family camping,349.99,40D ripstop nylon,4.2,,Base camp and family trips,true
+43,Emergency Bivy Bag,Shelter,Lightweight emergency shelter for unexpected nights out,19.99,Aluminised polyester,0.08,,Emergency bivouac,true
+44,Trekking Gaiters,Accessories,Low ankle gaiters keeping debris out of boots on dusty trails,24.99,Nylon + Velcro,0.14,,Desert and dusty trail hiking,true
+45,Alpine Gaiter,Accessories,Full waterproof gaiter for deep snow and wet conditions,54.99,Gore-Tex + nylon,0.22,EN 343,Winter mountaineering and snowshoeing,true
+46,Water Filter Straw,Hydration,Removes 99.999% of bacteria and protozoa from any water source,39.99,BPA-free plastic + hollow fibre,0.06,,Backcountry water treatment,true
+47,Gravity Water Filter 4L,Hydration,Gravity-fed filter system treating 4 litres in 15 minutes,64.99,Nylon + hollow fibre,0.35,,Group camping water treatment,true
+48,Insulated Water Bottle 1L,Hydration,Double-wall vacuum bottle keeping drinks cold 24h or hot 12h,34.99,Stainless steel,0.32,,All-conditions hydration,true
+49,Soft Flask 500ml,Hydration,BPA-free collapsible soft flask compatible with running vests,12.99,TPU,0.04,,Trail running and running vests,true
+50,Trail Mix Emergency Ration,Nutrition,High-calorie emergency ration bar rated 5-year shelf life,8.99,Oats + nuts + chocolate,0.18,,Emergency nutrition,true
+51,Freeze-Dried Meal 500kcal,Nutrition,Lightweight freeze-dried meal ready in 10 minutes with boiling water,9.99,Freeze-dried ingredients,0.12,,Backpacking meal,true
+52,Compact Gas Stove,Cooking,100g screw-top canister stove boiling 1L in 3.5 minutes,44.99,Aluminium + steel,0.1,,Backpacking cooking,true
+53,Titanium Mug 450ml,Cooking,Ultralight titanium mug doubling as a pot,29.99,Grade 1 titanium,0.08,,Ultralight cooking and drinking,true
+54,Spork Titanium,Cooking,Lightweight titanium spork for camp meals,9.99,Grade 1 titanium,0.02,,Camp eating,true
+55,First Aid Kit 30-piece,Safety,30-piece outdoor first aid kit including blister treatment,29.99,Mixed medical grade,0.25,,Trail first aid and emergency care,true
+56,Personal Locator Beacon,Safety,GPS PLB with 7-year battery and global coverage,249.99,ABS + electronics,0.16,COSPAS-SARSAT,Emergency rescue signalling,true
+57,Whistle Emergency,Safety,Fox 40 pealess whistle audible up to 1km,6.99,ABS plastic,0.02,,Emergency signalling,true
+58,Sun Protection SPF50 Stick,Safety,Convenient SPF50 sunscreen stick for face and lips,12.99,Mineral sunscreen formula,0.04,SPF 50,Sun protection on exposed terrain,true
+59,Trekking Gaiters Low,Accessories,Lightweight low gaiters for trail running and light hiking,19.99,Lycra + nylon,0.08,,Trail running and dusty trails,true
+60,Packable Rain Poncho,Outerwear,Ultralight packable poncho covering pack as well as hiker,24.99,Silnylon,0.15,,Emergency rain cover,true
