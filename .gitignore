@@ -1,6 +1,5 @@
 # Environment variables — never push these
 .env
-.env.example
 
 # Python
 __pycache__/

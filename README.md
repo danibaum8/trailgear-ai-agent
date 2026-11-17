@@ -75,6 +75,6 @@ streamlit run app.py
 
 ## Author
 
-**Dani Baumgarten** | Data Analyst & AI Solutions Builder based in Ireland
+**Dani Baumgarten** | AI Solutions Analyst based in Ireland
 
 [LinkedIn](https://www.linkedin.com/in/danibaum8/) · [Kaggle](https://www.kaggle.com/danibaum) · [Tableau](https://public.tableau.com/app/profile/dani.baum/vizzes)
